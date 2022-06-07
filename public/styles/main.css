@@ -3,8 +3,10 @@
 
 /* Custom variables */
 :root {
-    --color-background-main: gray;
+    --color-background-main: #5b639c;
+    --color-border-main: white;
     --color-text-main: white;
+    --color-text-active: darkmagenta;
 }
 
 /* Reset deafult behavior */
