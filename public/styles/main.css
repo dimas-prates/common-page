@@ -4,8 +4,11 @@
 /* Custom variables */
 :root {
     --color-background-main: #5b639c;
-    --color-border-main: white;
-    --color-text-main: white;
+    --color-background-banner-primary: #434978;
+    --color-background-banner-secondary: #fff;
+    --color-border-main: #fff;
+    --color-text-main: #fff;
+    --color-text-banner: #434978;
     --color-text-active: darkmagenta;
 }
 
