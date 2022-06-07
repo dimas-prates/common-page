@@ -74,3 +74,37 @@ header .search i {
     border-right: 1px solid var(--color-border-main);
         
 }
+
+.banner {
+    background: var(--color-background-banner-primary);
+    padding: 200px 100px 100px;
+    min-height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.banner .content {
+    max-width: 700px;
+}
+
+.banner .content h2 {
+    font-size: 3em;
+    color: var(--color-text-main);
+}
+
+.banner .content p {
+    font-size: 1em;
+    color: var(--color-text-main);
+}
+
+.banner .content a {
+    display: inline-block;
+    background: var(--color-background-banner-secondary);
+    color: var(--color-text-banner);
+    padding: 8px 20px;
+    text-decoration: none;
+    font-weight: 600;
+    margin-top: 20px;
+}
+
