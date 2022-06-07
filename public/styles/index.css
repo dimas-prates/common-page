@@ -109,3 +109,8 @@ header .search i {
     font-weight: 600;
     margin-top: 20px;
 }
+
+.banner .image {
+    filter: invert(1);
+    max-width: 400px;
+}
